@@ -5,7 +5,7 @@ Determine footprints for FITS images.
 
 This package is centered on the `find_borders` function, which calculates
 the border of an input boolean array using a technique inspired by the
-`marching squares algorithm <wikipedia.org/wiki/Marching_squares>`_. This
+`marching squares algorithm <http://en.wikipedia.org/wiki/Marching_squares>`_. This
 is particularly useful for astronomical CCD images, which often have a
 "vignette" of non-data pixels around the edge.
 
